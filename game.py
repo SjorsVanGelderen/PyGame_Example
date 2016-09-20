@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Advanced PyGame setup
+Basic PyGame setup
 """
 
 # Get access to relevant libraries
