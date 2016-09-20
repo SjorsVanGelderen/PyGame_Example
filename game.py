@@ -9,7 +9,7 @@ import sys, pygame, random
 
 # Start PyGame
 pygame.init()
-pygame.display.set_caption("Advanced PyGame example")
+pygame.display.set_caption("Basic PyGame example")
 
 # Define globals
 width  = 1024
